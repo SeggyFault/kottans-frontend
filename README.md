@@ -17,6 +17,8 @@ https://github.com/kottans/frontend
 * I saw git branching in graphical representation.
 * Git branching is an amazing feature that gives the room for experiments without any harm.
 * I will be using it in my future projects.
+- [x] Send a pull-request to Kottans/mock-repo proposing a change.
+* While doing this task I got authentification problem after trying to do `git --set-upstream origin`. That's how I've found out about personal access tokens :grimacing:
 
 **Extra Materials:**
 - [x] [Git за 30 хвилин](https://codeguida.com/post/453)
