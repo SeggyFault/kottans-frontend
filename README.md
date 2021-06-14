@@ -52,6 +52,10 @@ https://github.com/kottans/frontend
 * Security chapter was brand new to me. It was very interesting to decypher the terminal output and change permissions to the different types of users.
 * The thing that has surprised me was the list of processes I have on my computer which gave me a bit of paranoia :worried:
 * I will definitely use everything I've learned apart from the printer related commands (for now) as I don't have any.
+- [x] [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+* I didn't know most of the terms, except of the "status codes".
+* It was surprising to find out the "request" and "response" has much more data then I thought.
+* For now I don't know how I can incorporate since I don't understand how can I use it. 
 
 **Extra Materials:**
 - [x] [How I Taught Myself to Code in Eight Weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
