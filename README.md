@@ -40,3 +40,16 @@ https://github.com/kottans/frontend
 - [x] [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/)
 * I was familiar with the concept of the "fixed and growth mindsets" but it was nice to refresh it in memory.
 * I am using the methodology from the article to track negative thoughts and overcome them.
+
+### Linux CLI, and HTTP:
+
+**Main:**
+- [x] [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/)
+![Linux Survival Module 1](./task_linux_cli/Linux_Survival_M1.png)
+![Linux Survival Module 2](./task_linux_cli/Linux_Survival_M2.png)
+![Linux Survival Module 3](./task_linux_cli/Linux_Survival_M3.png)
+![Linux Survival Module 4](./task_linux_cli/Linux_Survival_M4.png)
+* Security chapter was brand new to me. It was very interesting to decypher the terminal output and change permissions to the different types of users.
+* The thing that has surprised me was the list of processes I have on my computer which gave me a bit of paranoia :worried:
+* I will definitely use everything I've learned apart from the printer related commands (for now) as I don't have any.
+
