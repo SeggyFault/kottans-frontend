@@ -53,3 +53,8 @@ https://github.com/kottans/frontend
 * The thing that has surprised me was the list of processes I have on my computer which gave me a bit of paranoia :worried:
 * I will definitely use everything I've learned apart from the printer related commands (for now) as I don't have any.
 
+**Extra Materials:**
+- [x] [How I Taught Myself to Code in Eight Weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
+* Before this article I had no idea of the whole structure of the web application.
+* It was surprising that you can create a working prototype (including backend) just in 8 weekends.
+* I will return back to the resources mentioned in the article and try to do my own prototype (hopefully) in 8 weekends too :neckbeard:
