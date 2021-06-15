@@ -66,3 +66,10 @@ https://github.com/kottans/frontend
 * Before this article I had no idea of the whole structure of the web application.
 * It was surprising that you can create a working prototype (including backend) just in 8 weekends.
 * I will return back to the resources mentioned in the article and try to do my own prototype (hopefully) in 8 weekends too :neckbeard:
+
+**Optional:**
+![Wes Bos "Command Line Power User"](./task_linux_cli/Wes_Power_User.png)
+- [x] [Wes Bos "Command Line Power User"](https://commandlinepoweruser.com)
+* I already had -zsh but I wasn't aware of it's possibilities, like adding the plugins.
+* Suprising was that with the simple instructions I still got errors and spent extra time to google them in order to be able to set up "oh my zsh", "z" and "trash". 
+* I will definitely use `trash` instead of `rm` to avoid accidental irreversible delitions.
