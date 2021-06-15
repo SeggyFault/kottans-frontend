@@ -56,6 +56,10 @@ https://github.com/kottans/frontend
 * I didn't know most of the terms, except of the "status codes".
 * It was surprising to find out the "request" and "response" has much more data then I thought.
 * For now I don't know how I can incorporate since I don't understand how can I use it. 
+- [x] [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+* I've finally understood the difference between "http" and "https".
+* The way cache works was more complex.
+* It's useful to know what is going "under the hood".
 
 **Extra Materials:**
 - [x] [How I Taught Myself to Code in Eight Weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
