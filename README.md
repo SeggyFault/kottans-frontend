@@ -7,7 +7,7 @@ https://github.com/kottans/frontend
 ### Git Basics:
 
 **Main:**
-- [x] [Udemy "Version Control with Git"](https://www.udacity.com/course/version-control-with-git--ud123):
+- [x] [Udacity "Version Control with Git"](https://www.udacity.com/course/version-control-with-git--ud123):
 * The "Relative Commit References" vere completely new to me.
 * I was surprised Git is not used exclusively by developers.
 * I will be using more flags to be able to display information in different ways.
@@ -62,6 +62,10 @@ https://github.com/kottans/frontend
 * It's useful to know what is going "under the hood".
 
 **Extra Materials:**
+- [x] [Основы командной строки Hexlet](https://ru.hexlet.io/courses/cli-basics)
+* I have never used Vim before.
+* "Streams" and the way of redirecting them was surprising to me (I didn't knew about STDIN, STDOUT and STDERR).
+* I got more in-depth understanding of how *nix systems work and how to interact with them, which I am already applying.
 - [x] [How I Taught Myself to Code in Eight Weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 * Before this article I had no idea of the whole structure of the web application.
 * It was surprising that you can create a working prototype (including backend) just in 8 weekends.
