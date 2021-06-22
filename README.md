@@ -71,6 +71,8 @@ https://github.com/kottans/frontend
 * Before this article I had no idea of the whole structure of the web application.
 * It was surprising that you can create a working prototype (including backend) just in 8 weekends.
 * I will return back to the resources mentioned in the article and try to do my own prototype (hopefully) in 8 weekends too :neckbeard:
+- [x] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+* Now I have an idea what WebSockets are and that there is HTTP/2 that in combination with SSE can be used as its more secure replacement (not in all cases though).
 
 **Optional:**
 ![Wes Bos "Command Line Power User"](./task_linux_cli/Wes_Power_User.png)
