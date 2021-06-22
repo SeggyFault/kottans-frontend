@@ -63,6 +63,7 @@ https://github.com/kottans/frontend
 
 **Extra Materials:**
 - [x] [Основы командной строки Hexlet](https://ru.hexlet.io/courses/cli-basics)
+![Основы командной строки Hexlet Finished](./task_linux_cli/Hexlet_Finished.png)
 * I have never used Vim before.
 * "Streams" and the way of redirecting them was surprising to me (I didn't knew about STDIN, STDOUT and STDERR).
 * I got more in-depth understanding of how *nix systems work and how to interact with them, which I am already applying.
