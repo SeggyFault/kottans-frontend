@@ -80,3 +80,5 @@ https://github.com/kottans/frontend
 * I already had -zsh but I wasn't aware of it's possibilities, like adding the plugins.
 * Suprising was that with the simple instructions I still got errors and spent extra time to google them in order to be able to set up "oh my zsh", "z" and "trash". 
 * I will definitely use `trash` instead of `rm` to avoid accidental irreversible delitions.
+
+### Git for Team Collaboration
