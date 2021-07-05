@@ -82,3 +82,10 @@ https://github.com/kottans/frontend
 * I will definitely use `trash` instead of `rm` to avoid accidental irreversible delitions.
 
 ### Git for Team Collaboration
+
+**Main:**
+![Udacity "GitHub & Collaboration"](./task_git_collaboration/UdacityGitHub&Collaboration.png)
+- [x] [Udacity "GitHub & Collaboration"](https://classroom.udacity.com/courses/ud456)
+* I didn't know about "squashing" commits.
+* it was surprising to me that it is possible to contribute to an open sourse project even if you are a beginner, - there is always an issue for any level.
+* I will try to contribute in an open sourse project.
