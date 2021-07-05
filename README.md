@@ -89,3 +89,7 @@ https://github.com/kottans/frontend
 * I didn't know about "squashing" commits.
 * it was surprising to me that it is possible to contribute to an open sourse project even if you are a beginner, - there is always an issue for any level.
 * I will try to contribute in an open sourse project.
+
+**Optional:**
+- [x] [An Introduction to Git and GitHub by Brian Yu (CS50 course)](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+* Nothing new or surprising, just a brief recap of the learned material.
