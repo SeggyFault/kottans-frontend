@@ -97,3 +97,5 @@ https://github.com/kottans/frontend
 * A whole bunch of new git commands.
 * Is there this kind of situations you want to delete everything? :bomb:
 * I will use these solutions when I will get into this sorts of situations.
+- [x] [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
+* A complete troubleshooting manual. Saved for the upcoming problems in the future :suspect:
