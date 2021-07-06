@@ -93,3 +93,7 @@ https://github.com/kottans/frontend
 **Optional:**
 - [x] [An Introduction to Git and GitHub by Brian Yu (CS50 course)](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 * Nothing new or surprising, just a brief recap of the learned material.
+- [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
+* A whole bunch of new git commands.
+* Is there this kind of situations you want to delete everything? :bomb:
+* I will use these solutions when I will get into this sorts of situations.
