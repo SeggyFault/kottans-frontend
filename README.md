@@ -89,6 +89,16 @@ https://github.com/kottans/frontend
 * I didn't know about "squashing" commits.
 * it was surprising to me that it is possible to contribute to an open sourse project even if you are a beginner, - there is always an issue for any level.
 * I will try to contribute in an open sourse project.
+![Learn Git Branching Main: "Ramping Up", "Moving Work Around"](./task_git_collaboration/LGB_Ramping&Moving.png)
+![Learn Git Branching Main: "A Mixed Bag", "Advanced Topics"](./task_git_collaboration/LGB_Mixed&Advanced.png)
+![Learn Git Branching Remote: "To Origin and Beyond"](./task_git_collaboration/LGB_Origin&Beyond.png)
+- [x] [Learngitbranching](https://learngitbranching.js.org) 
+  1. Main: Ramping Up, Moving Work Around
+  2. Main: A Mixed Bag, Advanced Topics
+  3. Remote: To Origin and Beyond
+* How git commands actually work on branches was new to me, thanks to the graphical representation.
+* I didn't knew I can push, pull and fetch from one branch to another or even create new ones on the flight.
+* I will feel more comfortable using git knowing a bit more of it's advanced features.
 
 **Optional:**
 - [x] [An Introduction to Git and GitHub by Brian Yu (CS50 course)](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
