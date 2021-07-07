@@ -109,3 +109,11 @@ https://github.com/kottans/frontend
 * I will use these solutions when I will get into this sorts of situations.
 - [x] [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
 * A complete troubleshooting manual. Saved for the upcoming problems in the future :suspect:
+
+### Intro to HTML and CSS
+
+**Optional:**
+- [x] ["Can't Unsee"](https://cantunsee.space/)
+* It was fun to remember good old times when I have worked as a designer.
+* Surprisingly I haven't nailed all of the challenges.
+* I need to be more attentive to the letter spacing.
