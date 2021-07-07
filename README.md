@@ -112,6 +112,12 @@ https://github.com/kottans/frontend
 
 ### Intro to HTML and CSS
 
+**Main:**
+![Codeacademy "Learn HTML"](./task_html_css_intro/CA_Learn_HTML.png)
+- [x] [Codeacademy "Learn HTML"](https://www.codecademy.com/courses/learn-html/lessons/intro-to-html/exercises/intro)
+* I have learned HTML before, nothing new or surprising, a good recap.
+* I will be using semantic HTML.
+
 **Optional:**
 - [x] ["Can't Unsee"](https://cantunsee.space/)
 * It was fun to remember good old times when I have worked as a designer.
