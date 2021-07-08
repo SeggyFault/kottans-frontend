@@ -113,6 +113,11 @@ https://github.com/kottans/frontend
 ### Intro to HTML and CSS
 
 **Main:**
+![Udacity "Intro to HTML & CSS"](./task_html_css_intro/U_HTML&CSS.png)
+- [x] [Udacity "Intro to HTML & CSS"](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+* Good basics, nothing new.
+* I will continue to use dev tools and using MDN and CSS tricks as a reference.
+
 ![Codeacademy "Learn HTML"](./task_html_css_intro/CA_Learn_HTML.png)
 - [x] [Codeacademy "Learn HTML"](https://www.codecademy.com/courses/learn-html/lessons/intro-to-html/exercises/intro)
 * I have learned HTML before, nothing new or surprising, a good recap.
