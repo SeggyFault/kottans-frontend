@@ -123,6 +123,12 @@ https://github.com/kottans/frontend
 * I have learned HTML before, nothing new or surprising, a good recap.
 * I will be using semantic HTML.
 
+![Codeacademy "Learn CSS"](./task_html_css_intro/CA_Learn_CSS.png)
+- [x] [Codeacademy "Learn CSS"](https://www.codecademy.com/courses/learn-css/lessons/learn-css-setup-and-syntax/exercises/intro-to-css)
+* New things were: `overflow` property is set to parent container, `visibility: hidden;` hides the element, but reserves it's space, unlike `display: none;`.
+* I didn't know about the `sticky` property.
+* Now I know how to add the `@font-face` which I will use.
+
 **Optional:**
 ![Free Code Camp "Basic HTML and HTML5"](./task_html_css_intro/FCC_Basic_HTML.png)
 - [x] [Free Code Camp "Responsive Web Design"](https://www.freecodecamp.org/learn/responsive-web-design/)
