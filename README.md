@@ -131,7 +131,9 @@ https://github.com/kottans/frontend
 
 **Optional:**
 ![Free Code Camp "Basic HTML and HTML5"](./task_html_css_intro/FCC_Basic_HTML.png)
+![Free Code Camp "Basic CSS"](./task_html_css_intro/FCC_Basic_CSS.png)
 - [x] [Free Code Camp "Responsive Web Design"](https://www.freecodecamp.org/learn/responsive-web-design/)
+* Custom CSS Variables and `:root`
 
 - [x] ["Can't Unsee"](https://cantunsee.space/)
 * It was fun to remember good old times when I have worked as a designer.
