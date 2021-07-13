@@ -142,3 +142,12 @@ https://github.com/kottans/frontend
 * It was fun to remember good old times when I have worked as a designer.
 * Surprisingly I haven't nailed all of the challenges.
 * I need to be more attentive to the letter spacing.
+
+### Responsive Web Design
+
+**Main:**
+![Flexbox Froggy](./task_responsive_web_design/Flexbox_Froggy.png)
+- [x] [Flexbox Froggy](http://flexboxfroggy.com/)
+* It was cool to see a graphical representation of the flexbox properties in action, I haven't used `align-content` before
+* Nothing surprising, I used flexbox before
+* For now I want to see the difference with the CSS grid to understand which one to use in which cases
