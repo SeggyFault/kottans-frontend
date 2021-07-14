@@ -153,3 +153,5 @@ https://github.com/kottans/frontend
 * It was cool to see a graphical representation of the flexbox properties in action, I haven't used `align-content` before
 * Nothing surprising, I used flexbox before
 * For now I want to see the difference with the CSS grid to understand which one to use in which cases
+
+**Optional:**
