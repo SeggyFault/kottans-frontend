@@ -136,6 +136,7 @@ https://github.com/kottans/frontend
 ![Free Code Camp "Applied Accessibility"](./task_html_css_intro/FCC_Applied_Accessibility.png)
 ![Free Code Camp "Responsive Web Design Principles"](./task_html_css_intro/FCC_Responsive_Web_Design_Principles.png)
 ![Free Code Camp "CSS Flexbox"](./task_html_css_intro/FCC_CSS_Flexbox.png)
+![Free Code Camp "CSS Grid"](./task_html_css_intro/FCC_CSS_Grid.png)
 - [x] [Free Code Camp "Responsive Web Design"](https://www.freecodecamp.org/learn/responsive-web-design/)
 * Custom CSS Variables and `:root`
 
