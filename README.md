@@ -155,3 +155,8 @@ https://github.com/kottans/frontend
 * For now I want to see the difference with the CSS grid to understand which one to use in which cases
 
 **Optional:**
+![Grid Garden](./task_responsive_web_design/Grid_Garden)
+- [x] [Grid Garden](http://cssgridgarden.com/).png
+* I didn't know I can use negative values for `grid-column-start` and `grid-column-end`
+* Level 26 was surprisingly complicated and I needed to google for the hints
+* I will use CSS Grid as a primary instrument for creating layouts
