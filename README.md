@@ -161,3 +161,6 @@ https://github.com/kottans/frontend
 * Level 26 was surprisingly complicated and I needed to google for the hints
 * I will use CSS Grid as a primary instrument for creating layouts
 
+![Flexbox Zombies](./task_responsive_web_design/Flexbox_Zombies.png)
+- [] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+* WIP 5/12
