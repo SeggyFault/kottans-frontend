@@ -167,3 +167,6 @@ https://github.com/kottans/frontend
 - [x] [Specificity Calculator](https://specificity.keegan.st/)
 - [x] [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
 * Useful resources to consult with, saved for later. For understanding specificity I prefer [Specifishity](https://specifishity.com/) :fish:
+
+- [x] [A simple explanation of High DPI screens](https://broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
+* I've finally understood what is the "device-independent pixel" (DIP) and "physical pixel density" (in Retina for 1 DIP there are double of physical pixels, 2 horizontal and 2 vertical)
