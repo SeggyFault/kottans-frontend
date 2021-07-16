@@ -170,3 +170,8 @@ https://github.com/kottans/frontend
 
 - [x] [A simple explanation of High DPI screens](https://broken-links.com/2013/10/02/simple-explanation-high-dpi-screens/)
 * I've finally understood what is the "device-independent pixel" (DIP) and "physical pixel density" (in Retina for 1 DIP there are double of physical pixels, 2 horizontal and 2 vertical)
+
+- [x] [11 вещей которые я узнал, читая спецификацию flexbox](https://habr.com/ru/post/329820/)
+* Very usfull article from the first till the last word. Maybe except of the `position: static;` :lemon:
+* Alignments with the margin was surprising
+* I can't wait to use this flexbox magic in the projects :sparkles:
