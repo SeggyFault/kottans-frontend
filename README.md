@@ -163,3 +163,7 @@ https://github.com/kottans/frontend
 
 ![Flexbox Zombies](./task_responsive_web_design/Flexbox_Zombies.png)
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+
+- [x] [Specificity Calculator](https://specificity.keegan.st/)
+- [x] [Specificity](https://developer.mozilla.org/uk/docs/Web/CSS/Specificity)
+* Useful resources to consult with, saved for later. For understanding specificity I prefer [Specifishity](https://specifishity.com/) :fish:
