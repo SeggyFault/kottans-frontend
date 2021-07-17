@@ -145,6 +145,10 @@ https://github.com/kottans/frontend
 * Surprisingly I haven't nailed all of the challenges.
 * I need to be more attentive to the letter spacing.
 
+![Hexlet "Основы HTML, CSS и веб-дизайна"](./task_html_css_intro/Hexlet_HTML_CSS.png)
+- [x] [Hexlet "Основы HTML, CSS и веб-дизайна"](https://ru.hexlet.io/courses/html)
+* Hexlet practice was very useful in order to understand the material.
+
 ### Responsive Web Design
 
 **Main:**
