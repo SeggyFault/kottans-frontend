@@ -246,3 +246,5 @@ https://github.com/kottans/frontend
 * Very usfull article from the first till the last word. Maybe except of the `position: static;` :lemon:
 * Alignments with the margin was surprising
 * I can't wait to use this flexbox magic in the projects :sparkles:
+
+### JavaScript Basics
