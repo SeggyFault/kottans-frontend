@@ -248,3 +248,5 @@ https://github.com/kottans/frontend
 * I can't wait to use this flexbox magic in the projects :sparkles:
 
 ### JavaScript Basics
+
+- [FreeCodeCamp "Basic JavaScript"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) WIP 91/111
