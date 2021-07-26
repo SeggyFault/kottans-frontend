@@ -249,4 +249,4 @@ https://github.com/kottans/frontend
 
 ### JavaScript Basics
 
-- [FreeCodeCamp "Basic JavaScript"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) WIP 93/111
+- [FreeCodeCamp "Basic JavaScript"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) WIP 101/111
