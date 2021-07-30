@@ -189,6 +189,7 @@ https://github.com/kottans/frontend
 ![Free Code Camp "CSS Flexbox"](./task_html_css_intro/FCC_CSS_Flexbox.png)
 ![Free Code Camp "CSS Grid"](./task_html_css_intro/FCC_CSS_Grid.png)
 
+- [x] Build a Tribute Page [Tribute Page](https://github.com/SeggyFault/tribute-page)
 - [x] Build a Survey Form [Survey Form](https://github.com/SeggyFault/survey-form)
 
 * Custom CSS Variables and `:root`
