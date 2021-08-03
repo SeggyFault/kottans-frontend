@@ -181,6 +181,11 @@ https://github.com/kottans/frontend
 * Now I know how to add the `@font-face` which I will use.
 
 **Optional:**
+
+- [x] [GitHub Learning Lab "Introduction to HTML"](https://lab.github.com/githubtraining/introduction-to-html)
+
+* Nothing new, especially after all the previous materials
+
 ![Free Code Camp "Basic HTML and HTML5"](./task_html_css_intro/FCC_Basic_HTML.png)
 ![Free Code Camp "Basic CSS"](./task_html_css_intro/FCC_Basic_CSS.png)
 ![Free Code Camp "Applied Visual Design"](./task_html_css_intro/FCC_Applied_Visual_Design.png)
