@@ -196,6 +196,7 @@ https://github.com/kottans/frontend
 
 - [x] Build a Tribute Page [Tribute Page](https://github.com/SeggyFault/tribute-page)
 - [x] Build a Survey Form [Survey Form](https://github.com/SeggyFault/survey-form)
+- [x] Build a Technical Documentation Page [Technical Documentation Page](https://github.com/SeggyFault/technical-documentation-page)
 
 * Custom CSS Variables and `:root`
 
