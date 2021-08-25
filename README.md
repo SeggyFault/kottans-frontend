@@ -256,4 +256,5 @@ https://github.com/kottans/frontend
 
 ### JavaScript Basics
 
+- [Udacity "Intro to JS"](https://classroom.udacity.com/courses/ud803) WIP
 - [FreeCodeCamp "Basic JavaScript"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) WIP 108/111
