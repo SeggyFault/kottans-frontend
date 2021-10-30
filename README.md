@@ -256,6 +256,12 @@ https://github.com/kottans/frontend
 
 ### JavaScript Basics
 
-- [Udacity "Intro to JS"](https://classroom.udacity.com/courses/ud803) WIP 95%
+![Udacity "Intro to JS"](./task_js_basics/Udacity_Intro_to_JS.png)
+- [x] [Udacity "Intro to JS"](https://classroom.udacity.com/courses/ud803)
+
+* Finally find out what does "hoisting" means
+* Functions are surprisingly the hardest part to understand so far
+* .splice() is my must have for the future
+
 - [FreeCodeCamp "Basic JavaScript"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) WIP 108/111
 - [FreeCodeCamp "ES6"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6) WIP 8/31
