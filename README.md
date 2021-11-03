@@ -265,4 +265,5 @@ https://github.com/kottans/frontend
 
 - [FreeCodeCamp "Basic JavaScript"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) WIP 108/111
 - [FreeCodeCamp "ES6"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6) WIP 8/31
-- [FreeCodeCamp "Basic Data Structures"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-data-structures) WIP 10/20
+![FreeCodeCamp "Basic Data Structures"](./task_js_basics/FCC_Basic_Data_Structures.png)
+- [x] [FreeCodeCamp "Basic Data Structures"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-data-structures)
