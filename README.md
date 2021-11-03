@@ -267,3 +267,12 @@ https://github.com/kottans/frontend
 - [FreeCodeCamp "ES6"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6) WIP 8/31
 ![FreeCodeCamp "Basic Data Structures"](./task_js_basics/FCC_Basic_Data_Structures.png)
 - [x] [FreeCodeCamp "Basic Data Structures"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-data-structures)
+
+### Document Object Model
+
+![Udacity "JavaScript and the DOM"](./task_js_dom/Udacity_JavaScript_and_the_DOM.png)
+- [x] [Udacity "JavaScript and the DOM"](https://classroom.udacity.com/courses/ud117)
+
+* Find out what is "Bubbling"
+* How the JS handles the asynchroneous functions
+* I will use the things I have learned in practice
