@@ -215,6 +215,9 @@ https://github.com/kottans/frontend
 ### Responsive Web Design
 
 **Main:**
+
+- [Udacity "Responsive Web Design"](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) WIP 80%
+
 ![Flexbox Froggy](./task_responsive_web_design/Flexbox_Froggy.png)
 
 - [x] [Flexbox Froggy](http://flexboxfroggy.com/)
