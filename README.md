@@ -108,6 +108,7 @@ https://github.com/kottans/frontend
 * Now I have an idea what WebSockets are and that there is HTTP/2 that in combination with SSE can be used as its more secure replacement (not in all cases though).
 
 **Optional:**
+
 ![Wes Bos "Command Line Power User"](./task_linux_cli/Wes_Power_User.png)
 
 - [x] [Wes Bos "Command Line Power User"](https://commandlinepoweruser.com)
@@ -119,6 +120,7 @@ https://github.com/kottans/frontend
 ### Git for Team Collaboration
 
 **Main:**
+
 ![Udacity "GitHub & Collaboration"](./task_git_collaboration/UdacityGitHub&Collaboration.png)
 
 - [x] [Udacity "GitHub & Collaboration"](https://classroom.udacity.com/courses/ud456)
@@ -158,6 +160,7 @@ https://github.com/kottans/frontend
 ### Intro to HTML and CSS
 
 **Main:**
+
 ![Udacity "Intro to HTML & CSS"](./task_html_css_intro/U_HTML&CSS.png)
 
 - [x] [Udacity "Intro to HTML & CSS"](https://www.udacity.com/course/intro-to-html-and-css--ud001)
@@ -227,6 +230,7 @@ https://github.com/kottans/frontend
 * For now I want to see the difference with the CSS grid to understand which one to use in which cases
 
 **Optional:**
+
 ![Grid Garden](./task_responsive_web_design/Grid_Garden.png)
 
 - [x] [Grid Garden](http://cssgridgarden.com/)
@@ -273,9 +277,19 @@ https://github.com/kottans/frontend
 
 ### Document Object Model
 
+**Main:**
+
 ![Udacity "JavaScript and the DOM"](./task_js_dom/Udacity_JavaScript_and_the_DOM.png)
 - [x] [Udacity "JavaScript and the DOM"](https://classroom.udacity.com/courses/ud117)
 
 * Find out what is "Bubbling"
 * How the JS handles the asynchroneous functions
 * I will use the things I have learned in practice
+
+**Optional:**
+
+- [x] [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+
+* The practical example finally showed how everything works together
+* I will use the knowlegde from this crash course on implementing interactive side-menu site, hopefully :sweat_smile:
+
