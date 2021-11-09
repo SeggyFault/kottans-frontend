@@ -219,7 +219,16 @@ https://github.com/kottans/frontend
 
 **Main:**
 
-- [Udacity "Responsive Web Design"](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) WIP 80%
+![Udacity "Responsive Web Design"](./task_responsive_web_design/Udacity_Responsive_Web_Design_Fundamentals.png)
+
+- [x] [Udacity "Responsive Web Design"](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) 
+* I didn't know about design patterns ("mostly fluid", "column drop", "layout shifter" and "off canvas")
+* Content tells where to put breakpoints
+* I will incorporate also minor breakpoints and will make sure my tap targets are at least 48x48px
+
+![Udacity "Responsive Images"](./task_responsive_web_design/Udacity_Responsive_Images.png)
+
+- [x] [Udacity "Responsive Images"](https://classroom.udacity.com/courses/ud882)
 
 ![Flexbox Froggy](./task_responsive_web_design/Flexbox_Froggy.png)
 
