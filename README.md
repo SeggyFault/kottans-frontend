@@ -275,6 +275,7 @@ https://github.com/kottans/frontend
 - [x] [FreeCodeCamp "ES6"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
 ![FreeCodeCamp "Basic Data Structures"](./task_js_basics/FCC_Basic_Data_Structures.png)
 - [x] [FreeCodeCamp "Basic Data Structures"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-data-structures)
+- [FreeCodeCamp "Basic Algorithm Scripting"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) WIP 1/16
 
 ### Document Object Model
 
