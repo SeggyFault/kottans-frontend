@@ -286,6 +286,10 @@ https://github.com/kottans/frontend
 - [x] [FreeCodeCamp "Basic Data Structures"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-data-structures)
 - [FreeCodeCamp "Basic Algorithm Scripting"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting) WIP 11/16
 
+**Optional**
+![FreeCodeCamp "Debugging"](./task_js_basics/FCC_Debugging.png)
+- [x] [FreeCodeCamp "Debugging"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
+
 ### Document Object Model
 
 **Main:**
